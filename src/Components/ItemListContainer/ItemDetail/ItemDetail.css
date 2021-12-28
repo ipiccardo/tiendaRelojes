@@ -1,0 +1,29 @@
+.button {
+  background-color: rgb(14, 20, 57) !important;
+  color: white !important;
+  border-radius: 10px !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  cursor: pointer !important;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 658px) {
+  div img {
+    width: 80%;
+  }
+}
+
+.marginTop {
+  margin-top: 15px !important;
+}

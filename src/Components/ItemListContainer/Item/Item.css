@@ -1,0 +1,36 @@
+.button {
+  background-color: rgb(14, 20, 57) !important;
+  color: white !important;
+  border-radius: 10px !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  padding: 5px !important;
+  width: 100px !important;
+  cursor: pointer !important;
+}
+
+.button:hover {
+  color: #ff3939 !important;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 658px) {
+  div img {
+    width: 80%;
+  }
+}
+
+.marginTopNegativo {
+  margin-top: -10px !important;
+  margin-bottom: 20px !important;
+}

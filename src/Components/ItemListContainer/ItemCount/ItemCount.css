@@ -1,0 +1,20 @@
+.button {
+  background-color: rgb(14, 20, 57) !important;
+  color: white !important;
+  border-radius: 10px !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  cursor: pointer !important;
+}
+
+.buttonSumyRest {
+  background-color: rgb(14, 20, 57) !important;
+  color: white !important;
+  width: 20px !important;
+  cursor: pointer !important;
+  border-radius: 5px !important;
+}
+
+.buttonSumyRest:hover {
+  color: #ff3939 !important;
+}

@@ -1,0 +1,111 @@
+[
+    {
+        "id":1,
+        "pictureUrl":"https://http2.mlstatic.com/D_NQ_NP_885410-MLM40975937487_032020-W.jpg",
+        "title":"Casio Quartz",
+        "description": "Analógico",
+        "category":"Analógicos",
+        "price": "50000",
+        "stock": "10"
+    },
+    {
+        "id":2,
+        "pictureUrl":"https://m.media-amazon.com/images/I/41E0vVxlpaL._SL500_.jpg",
+        "title":"Casio Digital",
+        "description": "Reloj Digital",
+        "category":"Digital",
+        "price": "70000",
+        "stock": "2"
+    },
+    {
+        "id":3,
+        "pictureUrl":"https://images-eu.ssl-images-amazon.com/images/I/51v%2BasPMsQL.jpg",
+        "title":"Skmei",
+        "description": "Mixto",
+        "category":"Mixtos",
+        "price": "100000",
+        "stock": "5"
+    },
+    {
+        "id":4,
+        "pictureUrl":"https://stylewatch.vtexassets.com/arquivos/ids/195853-500-auto?v=637637027980200000&width=500&height=auto&aspect=true",
+        "title":"Tommy Hilfiger Hendrix",
+        "description": "Analógico",
+        "category":"Analógicos",
+        "price": "15276",
+        "stock": "20"
+    },
+    {
+        "id":1,
+        "pictureUrl":"https://http2.mlstatic.com/D_NQ_NP_885410-MLM40975937487_032020-W.jpg",
+        "title":"Casio Quartz",
+        "description": "Analógico",
+        "category":"Analógicos",
+        "price": "50000",
+        "stock": "10"
+    },
+    {
+        "id":2,
+        "pictureUrl":"https://m.media-amazon.com/images/I/41E0vVxlpaL._SL500_.jpg",
+        "title":"Casio Digital",
+        "description": "Reloj Digital",
+        "category":"Digital",
+        "price": "70000",
+        "stock": "2"
+    },
+    {
+        "id":3,
+        "pictureUrl":"https://images-eu.ssl-images-amazon.com/images/I/51v%2BasPMsQL.jpg",
+        "title":"Skmei",
+        "description": "Mixto",
+        "category":"Mixtos",
+        "price": "100000",
+        "stock": "5"
+    },
+    {
+        "id":4,
+        "pictureUrl":"https://stylewatch.vtexassets.com/arquivos/ids/195853-500-auto?v=637637027980200000&width=500&height=auto&aspect=true",
+        "title":"Tommy Hilfiger Hendrix",
+        "description": "Analógico",
+        "category":"Analógicos",
+        "price": "15276",
+        "stock": "20"
+    },
+    {
+        "id":1,
+        "pictureUrl":"https://http2.mlstatic.com/D_NQ_NP_885410-MLM40975937487_032020-W.jpg",
+        "title":"Casio Quartz",
+        "description": "Analógico",
+        "category":"Analógicos",
+        "price": "50000",
+        "stock": "10"
+    },
+    {
+        "id":2,
+        "pictureUrl":"https://m.media-amazon.com/images/I/41E0vVxlpaL._SL500_.jpg",
+        "title":"Casio Digital",
+        "description": "Reloj Digital",
+        "category":"Digital",
+        "price": "70000",
+        "stock": "2"
+    },
+    {
+        "id":3,
+        "pictureUrl":"https://images-eu.ssl-images-amazon.com/images/I/51v%2BasPMsQL.jpg",
+        "title":"Skmei",
+        "description": "Mixto",
+        "category":"Mixtos",
+        "price": "100000",
+        "stock": "5"
+    },
+    {
+        "id":4,
+        "pictureUrl":"https://stylewatch.vtexassets.com/arquivos/ids/195853-500-auto?v=637637027980200000&width=500&height=auto&aspect=true",
+        "title":"Tommy Hilfiger Hendrix",
+        "description": "Analógico",
+        "category":"Analógicos",
+        "price": "15276",
+        "stock": "20"
+    }
+]
+
