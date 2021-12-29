@@ -1,6 +1,7 @@
 import * as React from "react";
 import { useState } from "react";
 import Grid from "@mui/material/Grid";
+import swal from "sweetalert";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
@@ -63,7 +64,7 @@ const Order = () => {
     batch.commit();
 
     addDoc(ordersCollection, order).then(({ id }) => {
-      alert(
+      swal(
         `¡ORDEN CONFIRMADA!,
           N°orden: ${id}. Se enviaron los detalles de la compra a tu mail: ${buyer.mail}
           success`
